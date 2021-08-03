@@ -1,0 +1,35 @@
+.box{
+    width: 250px;
+  height: 90px;
+}
+.aquamarin{
+  
+  background-color:rgb(127, 255, 212);
+  margin: 30px auto;
+  border: dashed 2px red;  
+  border-radius: 3px;
+}
+
+.green{
+   
+    background-color:rgb(32, 178, 170);
+    margin: 30px auto;
+    border: dotted 2px grey;  
+    border-radius: 0px 3px 0px 3px;
+  }
+
+  .red{
+   
+    background-color:rgb(255, 160, 122);
+    margin: 30px auto;
+    border: solid 7px red;  
+    
+  }
+
+  .blue{
+   
+    background-color:rgb(176, 196, 222);
+    margin: 30px auto;
+    border-left: solid 3px rgb(54, 52, 52);  
+   
+  }
